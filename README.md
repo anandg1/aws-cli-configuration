@@ -1,11 +1,12 @@
 # Configuring an AWS-CLI
-###### The AWS CLI is a special tool to manage your AWS services from a terminal session on your own. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts. 
+
+The AWS CLI is a special tool to manage your AWS services from a terminal session on your own. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts. 
 
 
-> First of all, we need to download and install the AWS CLI. Depending on your operating system, it will require a different method. Click [here](https://aws.amazon.com/cli/) to download and install the one which matches your operating system. The link includes the installation steps described in detail. 
- Here I am using an Amazon Linux AMI, which comes with AWS-CLI pre-installed on it.
+_First of all, we need to download and install the AWS CLI. Depending on your operating system, it will require a different method. Click [here](https://aws.amazon.com/cli/) to download and install the one which matches your operating system. The link includes the installation steps described in detail. 
+ Here I am using an Amazon Linux AMI, which comes with AWS-CLI pre-installed on it._
 
-###### Now, let us have a look into the process of configuring an AWS-CLI. 
+Now, let us have a look into the process of configuring an AWS-CLI. 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 

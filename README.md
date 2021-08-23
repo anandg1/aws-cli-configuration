@@ -8,7 +8,7 @@ _First of all, we need to download and install the AWS CLI. Depending on your op
 
 Now, let us have a look into the process of configuring an AWS-CLI. 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)]()
 
 
 ## STEPS:
